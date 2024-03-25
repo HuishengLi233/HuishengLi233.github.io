@@ -18,4 +18,16 @@
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
   </entry>
+  <entry>
+    <title>电路学习笔记(1)</title>
+    <url>/2024/03/18/%E7%94%B5%E8%B7%AF%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-1/</url>
+    <content><![CDATA[<h1 id="电路概述"><a href="#电路概述" class="headerlink" title="电路概述"></a>电路概述</h1><h2 id="电路用途"><a href="#电路用途" class="headerlink" title="电路用途"></a>电路用途</h2><ol>
+<li>电能量的产生、传输和使用（由于电压和电路较大，称之为强电）。</li>
+<li>电信号的产生、传递和处理。</li>
+</ol>
+]]></content>
+      <categories>
+        <category>电子信息</category>
+      </categories>
+  </entry>
 </search>
